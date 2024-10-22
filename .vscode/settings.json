@@ -1,5 +1,22 @@
 {
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ios": "cpp",
+        "vector": "cpp",
+        "bitset": "cpp",
+        "__bit_reference": "cpp",
+        "__node_handle": "cpp",
+        "deque": "cpp",
+        "limits": "cpp",
+        "locale": "cpp",
+        "optional": "cpp",
+        "ratio": "cpp",
+        "regex": "cpp",
+        "scoped_allocator": "cpp",
+        "tuple": "cpp",
+        "string": "cpp",
+        "set": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp"
     }
 }

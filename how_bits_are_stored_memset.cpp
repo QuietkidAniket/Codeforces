@@ -8,7 +8,7 @@ int main(){
     int32_t arr[4];
     memset(arr, 0xFF, sizeof(arr));
     for(auto x : arr){
-        cout << x<<'\n';
+        cout << "Bit representation of  "<< x<<" : " << '\n';
         cout << ( bitset<32> )x << '\n';
     }  
 }
